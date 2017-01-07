@@ -1,0 +1,28 @@
+<html>
+<body>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<ul>
+    <li>A</li>
+    <li>B</li>
+    <li>C</li>
+  </ul>
+</body>
+</html>
+
+Considerando o html acima, crie uma função em javascript que ao clicar em um dos itens da lista, ele írá para a primeira posição da lista.
+----------------------------------------------
+
+Dado o objeto abaixo, faça com que o método 
+
+var arr = [
+  "apple",
+  ["banana", "strawberry", "apple"]
+];
+
+function countItems(arr, item)
+{
+	//TODO
+}
+
+
+alert(countItems(arr, "apple"));
