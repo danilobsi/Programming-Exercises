@@ -1,5 +1,5 @@
 //Dado o objeto abaixo, faça com que o método "countItems" retorne a quantidade de vezes que a palavra na variavel "item" ocorre:
-
+//obs: Lembrando que um array pode estar dentro de outro array
 var arr = [
   "apple",
   ["banana", "strawberry", "apple"]
